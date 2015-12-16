@@ -1,8 +1,12 @@
 {
   "nativescript": {
-    "id": "org.nativescript.nativescriptManifest"
+    "id": "org.nativescript.nativescriptManifest",
+    "tns-android": {
+      "version": "1.5.0"
+    }
   },
   "dependencies": {
+    "nativescript-barcodescanner": "^1.2.0",
     "tns-core-modules": "1.5.0"
   }
 }
